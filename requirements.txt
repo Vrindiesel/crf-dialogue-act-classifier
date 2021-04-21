@@ -34,7 +34,7 @@ threadpoolctl==2.1.0
 tokenizers==0.10.1
 toolz==0.10.0
 torch==1.7.1
-torchaudio==0.7.0a0+a853dff
+torchaudio==0.7.0
 torchtext==0.3.1
 torchvision==0.8.2
 tqdm
