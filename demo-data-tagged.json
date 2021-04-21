@@ -1,0 +1,210 @@
+{
+  "conv_id_123": {
+    "turns": [
+      {
+        "text": "I had a really hard Guitar Lesson today!",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Oh yeah, How so?",
+        "pred_label": "qw",
+        "label_name": "Wh-Question"
+      },
+      {
+        "text": "My teacher taught me a new fingering technique.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Which one did you learn?",
+        "pred_label": "qw",
+        "label_name": "Wh-Question"
+      },
+      {
+        "text": "We worked on learning to slide my fingers down the strings after plucking to change the pitch higher or lower.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "I wouldn't think that was so hard.",
+        "pred_label": "sv",
+        "label_name": "Statement-opinion"
+      },
+      {
+        "text": "It is difficult to do accuratly when you are moving through a peice and need to move on to the next notes.",
+        "pred_label": "sv",
+        "label_name": "Statement-opinion"
+      },
+      {
+        "text": "Doesn't the neck of your guitar have those lines to help you?",
+        "pred_label": "qy",
+        "label_name": "Yes-No-Question"
+      },
+      {
+        "text": "The fret marks? Yes it does but you need to press cleanly in the space so that the note plays true on the one long string vibration.",
+        "pred_label": "sv",
+        "label_name": "Statement-opinion"
+      },
+      {
+        "text": "Sort of like when you play a larger string instrument like the cello?",
+        "pred_label": "sv",
+        "label_name": "Statement-opinion"
+      },
+      {
+        "text": "Exactly, if you don't move your fingers to the right places on the neck the end notes won't be true.",
+        "pred_label": "sv",
+        "label_name": "Statement-opinion"
+      },
+      {
+        "text": "Oh, I understand now.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "It's also hard on your fingers to hold the string down and slide.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "I've seen some guitar players use metal tubes on their fingers to slide like that.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "That is another techniques that will play sliding cords but for individual notes you only use your bare fingers.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Do your fingertip calluses help?",
+        "pred_label": "qy",
+        "label_name": "Yes-No-Question"
+      },
+      {
+        "text": "They do but it looks like I'll need to practice more to build them up a bit.",
+        "pred_label": "na",
+        "label_name": "Affirmative non-yes answers"
+      },
+      {
+        "text": "I've heard those sliding notes and didn't know how they were done.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "It's a great technique to add to my playing.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "I look forward to hearing you play a whole peice!",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      }
+    ]
+  },
+  "conv_id_456": {
+    "turns": [
+      {
+        "text": "Is music a good topic to talk about?",
+        "pred_label": "qy",
+        "label_name": "Yes-No-Question"
+      },
+      {
+        "text": "Yes i love music.",
+        "pred_label": "na",
+        "label_name": "Affirmative non-yes answers"
+      },
+      {
+        "text": "Good so do I.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "What do you listen to when youre in the car?",
+        "pred_label": "qw",
+        "label_name": "Wh-Question"
+      },
+      {
+        "text": "I have sirius radio.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Oh okay, i used to have that.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Subscription ran out?",
+        "pred_label": "qy^d",
+        "label_name": "Declarative Yes-No-Question"
+      },
+      {
+        "text": "Yes and i havent had the money to get it back yet.",
+        "pred_label": "na",
+        "label_name": "Affirmative non-yes answers"
+      },
+      {
+        "text": "That sucks.",
+        "pred_label": "ba",
+        "label_name": "Appreciation"
+      },
+      {
+        "text": "Yea but ive been listening to iheart radio.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "With Bluetooth?",
+        "pred_label": "qy^d",
+        "label_name": "Declarative Yes-No-Question"
+      },
+      {
+        "text": "Yes i love the favorites station it puts together for me.",
+        "pred_label": "na",
+        "label_name": "Affirmative non-yes answers"
+      },
+      {
+        "text": "Yea i listen to iheartradio sometimes.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Its the best way to listen to music for me.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "I like it better than pandora.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Me too, i dont like pandora.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "Im glad we agree.",
+        "pred_label": "sd",
+        "label_name": "Statement-non-opinion"
+      },
+      {
+        "text": "It was nice talking to you.",
+        "pred_label": "fc",
+        "label_name": "Conventional-closing"
+      },
+      {
+        "text": "You too.",
+        "pred_label": "fc",
+        "label_name": "Conventional-closing"
+      },
+      {
+        "text": "Bye.",
+        "pred_label": "fc",
+        "label_name": "Conventional-closing"
+      }
+    ]
+  }
+}

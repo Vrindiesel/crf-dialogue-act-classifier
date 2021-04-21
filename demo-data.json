@@ -1,0 +1,51 @@
+{
+  "conv_id_123": {
+    "turns": [
+      {"text": "I had a really hard Guitar Lesson today!"},
+      {"text": "Oh yeah, How so?"},
+      {"text": "My teacher taught me a new fingering technique."},
+      {"text": "Which one did you learn?"},
+      {"text": "We worked on learning to slide my fingers down the strings after plucking to change the pitch higher or lower."},
+      {"text": "I wouldn't think that was so hard."},
+      {"text": "It is difficult to do accuratly when you are moving through a peice and need to move on to the next notes."},
+      {"text": "Doesn't the neck of your guitar have those lines to help you?"},
+      {"text": "The fret marks? Yes it does but you need to press cleanly in the space so that the note plays true on the one long string vibration."},
+      {"text": "Sort of like when you play a larger string instrument like the cello?"},
+      {"text": "Exactly, if you don't move your fingers to the right places on the neck the end notes won't be true."},
+      {"text": "Oh, I understand now."},
+      {"text": "It's also hard on your fingers to hold the string down and slide."},
+      {"text": "I've seen some guitar players use metal tubes on their fingers to slide like that."},
+      {"text": "That is another techniques that will play sliding cords but for individual notes you only use your bare fingers."},
+      {"text": "Do your fingertip calluses help?"},
+      {"text": "They do but it looks like I'll need to practice more to build them up a bit."},
+      {"text": "I've heard those sliding notes and didn't know how they were done."},
+      {"text": "It's a great technique to add to my playing."},
+      {"text": "I look forward to hearing you play a whole peice!" }
+    ]
+  },
+  "conv_id_456": {
+    "turns": [
+      {"text":  "Is music a good topic to talk about?"},
+      {"text": "Yes i love music."},
+      {"text": "Good so do I."},
+      {"text": "What do you listen to when youre in the car?"},
+      {"text": "I have sirius radio."},
+      {"text": "Oh okay, i used to have that."},
+      {"text": "Subscription ran out?"},
+      {"text": "Yes and i havent had the money to get it back yet."},
+      {"text": "That sucks."},
+      {"text": "Yea but ive been listening to iheart radio."},
+      {"text": "With Bluetooth?"},
+      {"text": "Yes i love the favorites station it puts together for me."},
+      {"text": "Yea i listen to iheartradio sometimes."},
+      {"text": "Its the best way to listen to music for me."},
+      {"text": "I like it better than pandora."},
+      {"text": "Me too, i dont like pandora."},
+      {"text": "Im glad we agree."},
+      {"text": "It was nice talking to you."},
+      {"text": "You too."},
+      {"text": "Bye."}
+    ]
+  }
+}
+
