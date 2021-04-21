@@ -3,10 +3,8 @@ A module for dialogue act tagging.
 
 # Setup
 - install the requirments: `requirements.txt`
-- Download the trained dact model:
+- Build or Download a trained dact model
 
-
-    `wget https://storage.googleapis.com/my_model_files/da-5_acc79.88_loss0.57_e4.pt`
 
 # Using a Trained DACT Model
 The file `run.sh` contains an example of how to run dialogue act tagging on the 
